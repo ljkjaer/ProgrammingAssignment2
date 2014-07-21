@@ -1,5 +1,5 @@
-## 'makeCacheMatrix' and 'cacheSolve', create a 'special' matrix, with get and set functions that can cache the 
-## inverse of the matrix.'cacheSolve': This function computes the inverse of the special "matrix" returned by makeCacheMatrix' above. 
+## 'makeCacheMatrix': creates a 'special' matrix, with get and set functions that can cache the 
+## inverse of the matrix.'cacheSolve': This function computes the inverse of the special matrix returned by makeCacheMatrix' above. 
 ## If the inverse has ready been calculated (and the matrix has not changed), then 'cacheSolve' should retrieve 
 ## the inverse from the cache.
 
